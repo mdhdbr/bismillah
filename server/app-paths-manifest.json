@@ -1,0 +1,23 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/dashboard/architecture/page": "app/dashboard/architecture/page.js",
+  "/dashboard/compliance/page": "app/dashboard/compliance/page.js",
+  "/dashboard/dispatch/page": "app/dashboard/dispatch/page.js",
+  "/dashboard/driver-app/page": "app/dashboard/driver-app/page.js",
+  "/dashboard/drivers/page": "app/dashboard/drivers/page.js",
+  "/dashboard/fleet/page": "app/dashboard/fleet/page.js",
+  "/dashboard/fuel/page": "app/dashboard/fuel/page.js",
+  "/dashboard/heavy-driver-app/page": "app/dashboard/heavy-driver-app/page.js",
+  "/dashboard/invoice/page": "app/dashboard/invoice/page.js",
+  "/dashboard/jobs/page": "app/dashboard/jobs/page.js",
+  "/dashboard/page": "app/dashboard/page.js",
+  "/dashboard/passenger-app/page": "app/dashboard/passenger-app/page.js",
+  "/dashboard/settings/page": "app/dashboard/settings/page.js",
+  "/dashboard/shipper-portal/page": "app/dashboard/shipper-portal/page.js",
+  "/dashboard/sms/page": "app/dashboard/sms/page.js",
+  "/dashboard/support/page": "app/dashboard/support/page.js",
+  "/dashboard/weather/page": "app/dashboard/weather/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/fleet/tracking/page": "app/fleet/tracking/page.js",
+  "/page": "app/page.js"
+}

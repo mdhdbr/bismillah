@@ -1,0 +1,20 @@
+{
+  "node": {
+    "4079720744907d12a6022b617a99c6f969689a3229": {
+      "workers": {
+        "app/dashboard/automated-dispatch/page": {
+          "moduleId": "[project]/.next-internal/server/app/dashboard/automated-dispatch/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/ai/flows/automated-dispatch.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "suggestAssignments",
+          "filename": "src/ai/flows/automated-dispatch.ts"
+        }
+      },
+      "layer": {
+        "app/dashboard/automated-dispatch/page": "action-browser"
+      },
+      "exportedName": "suggestAssignments",
+      "filename": "src/ai/flows/automated-dispatch.ts"
+    }
+  },
+  "edge": {}
+}

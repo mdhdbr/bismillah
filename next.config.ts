@@ -1,7 +1,9 @@
+
 import type {NextConfig} from 'next';
 
 const nextConfig: NextConfig = {
   /* config options here */
+  reactStrictMode: false,
   typescript: {
     ignoreBuildErrors: true,
   },
@@ -28,7 +30,19 @@ const nextConfig: NextConfig = {
         port: '',
         pathname: '/**',
       },
+      {
+        protocol: 'https',
+        hostname: 'storage.googleapis.com',
+        port: '',
+        pathname: '/**',
+      },
     ],
+  },
+  // Allow handling data URIs for AI-generated images
+  experimental: {
+    serverActions: {
+      bodySizeLimit: '2mb', // Adjust if needed for larger images
+    },
   },
 };
 

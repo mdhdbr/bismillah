@@ -1,0 +1,21 @@
+{
+  "node": {
+    "60142c323b0c6483d8bcffe79428564214370d88ec": {
+      "workers": {
+        "app/fleet/tracking/page": {
+          "moduleId": "[project]/.next-internal/server/app/fleet/tracking/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/ai/flows/forecast-next-trip.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "forecastNextTrip",
+          "filename": "src/ai/flows/forecast-next-trip.ts"
+        }
+      },
+      "layer": {
+        "app/fleet/tracking/page": "action-browser"
+      },
+      "filename": "src/ai/flows/forecast-next-trip.ts",
+      "exportedName": "forecastNextTrip"
+    }
+  },
+  "edge": {},
+  "encryptionKey": "2JxyxNTQlu7ZOcf1dU1MTB+oEHmnhgv3Y69sh+yepXU="
+}
